@@ -20,6 +20,7 @@ Description=Mersenne Primality Tester
 Type=simple
 User=<user>
 ExecStart=sh -c 'flatpak run --command=mprime-daemon org.mersenne.mprime 2>&1'
+ExecStop=flatpak kill org.mersenne.mprime
 KillMode=process
 KillSignal=SIGTERM
 
