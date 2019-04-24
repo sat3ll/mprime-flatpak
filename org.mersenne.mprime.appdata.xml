@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>com.github.macrofusion</id>
+  <id>org.mersenne.mprime</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>EULA</project_license>
   <name>mprime</name>
