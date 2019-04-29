@@ -34,13 +34,13 @@ modules:
       - type: file
         only-arches:
           - x86_64
-        url: https://www.mersenne.org/ftp_root/gimps/p95v294b8.linux64.tar.gz
-        sha256: a0c86dbc1f5259dc7fcbb7cd1ac82eee618a4538b2a6d3afe60f96bfe36d82a4
+        url: https://www.mersenne.org/ftp_root/gimps/p95v298b3.linux64.tar.gz
+        sha256: 66117e8c30752426471c7b4a7a64ffbfc53c84d0f3140acf87c08d3fec8e99ac
       - type: file
         only-arches:
           - i386
-        url: https://www.mersenne.org/ftp_root/gimps/p95v294b7.linux32.tar.gz
-        sha256: 475c3d06e9ab1507aed6decaa22f8a0142c336a86564ab79c055777be58d9564
+        url: https://www.mersenne.org/ftp_root/gimps/p95v298b3.linux32.tar.gz
+        sha256: f3d3a3278f01fab5d44a33fab151a93e52cd22712d5913c4261254dba3867f87
       - type: file
         path: mprime-wrapper
       - type: file
