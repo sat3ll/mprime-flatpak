@@ -1,3 +1,8 @@
+# INFO
+This repo is now obsolete.  
+See https://github.com/flathub/org.mersenne.mprime and https://flathub.org/apps/details/org.mersenne.mprime
+
+
 ## File locations
 The files created by mprime are saved under
 `/home/<user>/.var/app/org.mersenne.mprime/data/`, where `<user>` is your
